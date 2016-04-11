@@ -10,5 +10,7 @@ public class Main {
 
         while (i < 5) System.out.println(i);
         System.out.println("I was here !");
+
+        System.out.println();
     }
 }
